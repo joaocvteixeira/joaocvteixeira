@@ -9,7 +9,7 @@
   
   
 **📚 Mais certificados**:  
-- [Introdução à Pensamento Computacional](https://hermes.dio.me/certificates/9JY3KWK6.pdf)  
+- [Introdução à Programação e Pensamento Computacional](https://hermes.dio.me/certificates/9JY3KWK6.pdf)  
 - [Fundamentos de Redes de Computadores](https://hermes.dio.me/certificates/O4D0PYMO.pdf)  
 - [Versionamento de Código com Git e GitHub](https://hermes.dio.me/certificates/Q7S2PQU6.pdf)  
   
