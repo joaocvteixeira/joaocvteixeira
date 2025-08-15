@@ -1,21 +1,18 @@
-👋 Olá! Sou **João Teixeira**, um acadêmico e desenvolvedor pronto para programar experiências!  
-
----
-
-📜 **Meus Certificados e Tecnologias:**
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://hermes.dio.me/certificates/S27XSOX7.pdf)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://hermes.dio.me/certificates/BKONMZIO.pdf)
-[![Redes de Computadores](https://img.shields.io/badge/Redes_de_Computadores-6E6E6E?style=for-the-badge)](https://hermes.dio.me/certificates/O4D0PYMO.pdf)
-
-
-
-
-
-
-
-
-
+👋 Olá! Sou **João Teixeira**, um acadêmico e desenvolvedor pronto para programar experiências!
+  
+  
+**🎖️ Formações**:  
+  
+[<img width="100px" src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" alt="Formação Lógica de Programação">](https://hermes.dio.me/certificates/U0WN15DR.pdf)
+[<img width="100px" src="https://hermes.dio.me/tracks/972297dc-4357-4af4-abea-89a38853a949.png" alt="Formação Github Certification">](https://hermes.dio.me/certificates/BKONMZIO.pdf)
+[<img width="100px" src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" alt="Formação HTML Web Developer">](https://hermes.dio.me/certificates/S27XSOX7.pdf)
+  
+  
+**📚 Mais certificados**:  
+- [Introdução à Pensamento Computacional](https://hermes.dio.me/certificates/9JY3KWK6.pdf)  
+- [Fundamentos de Redes de Computadores](https://hermes.dio.me/certificates/O4D0PYMO.pdf)  
+- [Versionamento de Código com Git e GitHub](https://hermes.dio.me/certificates/Q7S2PQU6.pdf)  
+  
+  
+**💻 Linguagens mais utilizadas**:  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocvteixeira&layout=donut)
