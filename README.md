@@ -1,4 +1,4 @@
-👋 Olá! Sou **João Teixeira**, um acadêmico e desenvolvedor pronto para programar experiências!
+👋 Olá! Me chamo **João Teixeira**, sou um desenvolvedor pronto para programar experiências!
   
   
 **🎖️ Formações**:  
